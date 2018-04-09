@@ -58,6 +58,9 @@
     "xml2js": "0.4.0",
     "xss-filters": "^1.2.6"
   },
+    "engines": {
+    "node": "8.9.4"
+  },
   "apidoc": {
     "title": "Custom apiDoc browser title",
     "url": "http://192.168.88.122"
